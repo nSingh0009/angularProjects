@@ -12,9 +12,7 @@
       },
       "root": "",
       "sourceRoot": "src",
-      "prefix": "appgit init
-
-      ",
+      "prefix": "app",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:application",
