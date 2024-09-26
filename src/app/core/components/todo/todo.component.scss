@@ -1,0 +1,21 @@
+.main-ctn {
+  display: flex;
+  height: 100vh;
+  background-color: rgb(202, 152, 248);
+  align-items: center;
+  flex-direction: column;
+}
+
+.main-cnt-wrapper {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.main-ctn-1 {
+  border: 5px solid red;
+  border-radius: 20px;
+  padding: 20px;
+  margin: auto 20px;
+
+}

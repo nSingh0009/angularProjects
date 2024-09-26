@@ -1,0 +1,36 @@
+.main-ctn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  margin: auto;
+  background: linear-gradient(to right,
+      #F0060B,
+      #F0070C 0%,
+      #CC26D5 52.6%,
+      #7702FF 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+
+
+.image-ctn {
+  width: 400px;
+  height: 150px;
+}
+
+h1 {
+  font-weight: 900;
+}
+
+a {
+  text-decoration: none;
+}
+
+a,
+p {
+  font-weight: 900;
+}
